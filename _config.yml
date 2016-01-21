@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Jean-Nicholas Hould
+tagline:             'Data, Entreprenership & Technology'
+description:         'Essays about data, entrepreneurship and technology'
+url:                 http://www.jeannicholashould.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jean-Nicholas Hould
+  url:               https://twitter.com/nicholashould
+  email:             nick.hould@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate, jekyll-redirect-from]
+paginate: 5
+paginate_path: "page:num"
