@@ -1,16 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
 
 # Setup
-title:               Jean-Nicholas Hould
-tagline:             'Data, Entreprenership & Technology'
+title:               'Jean-Nicholas Hould'
+tagline:         	 'Data, Entreprenership & Technology'
 description:         'Essays about data, entrepreneurship and technology'
-url:                 http://www.jeannicholashould.com
-baseurl:             ''
-paginate:            5
+# permalink:           pretty
+baseurl: ""
+url:                 'http://www.jeannicholashould.com'
+
+spaginate:            5
 
 # About/contact
 author:
