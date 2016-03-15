@@ -8,7 +8,7 @@ I've a had a few discussions over the past months with people wanting to get int
 ### Why SQL?
 SQL is the most common denominator for data analysis. It's a special-purpose programming language designed to interact with databases. It is ubiquitous. As a data analyst you will inevitably interact with an SQL interface on a frequent basis.
 
-SQL is a simple language that gets the job done. You can learn it's basics in a few hours and with those concepts you can powerfully wrangle your data, wether it's a few rows or millions of data points. 
+SQL is a simple language that gets the job done. You can learn it's basics in a few hours and with those concepts you can powerfully wrangle your data, whether it's a few rows or millions of data points. 
 
 With the rise of SQL-based business intelligence tools such as Looker, Periscope and Mode Analytics, it is now, more than ever, an indispensable tool for a data analyst. The big data ecosystem is also being ruled by SQL. Hadoop, Redshift and other massive parallel processing data warehouse are interfacing in SQL. As a data analyst, you have no excuses not to master it.
 
