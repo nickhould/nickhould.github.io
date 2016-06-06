@@ -3,7 +3,7 @@ layout: post
 title: Don't Build Another Dashboard From Scratch
 ---
 
-For the past few years, I've been working as part of the data team of [True Key](https://www.truekey.com/) at Intel Security. At different point in times, I felt the need to build a custom dashboarding solution for our team. I thought the existing solutions where not good enough for us, not flexible enough. For example, solutions like Geckoboard didn't allow our teammates to filter and query the data. I wanted to build a custom dashboard by coding it from scratch to solve that problem. 
+For the past few years, I've been working with data. At different point in times, I felt the need to build a custom dashboarding solution for our team. I thought the existing solutions where not good enough for us, not flexible enough. For example, solutions like Geckoboard didn't allow our teammates to filter and query the data. I wanted to build a custom dashboard by coding it from scratch to solve that problem. 
 
 I've noticed it's a common pattern in data teams to want to build a custom dashboard. We might want a self-hosted dashboarding solution, create very custom viz, allow special querying functionalities, etc. 
 
