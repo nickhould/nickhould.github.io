@@ -1,0 +1,30 @@
+#mc_embed_signup {
+  background:#fff; 
+  clear:left; 
+  font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+#mc_embed_signup .button {
+  background-color: #3b9739;
+  height: 40px;
+  font-size: 16px;
+}
+
+#mc_embed_signup .button:hover {
+  background-color: #2f792e;
+}
+
+#mc_embed_signup form {
+  padding: 10px 0 10px 0;
+}
+
+#mc_embed_signup .mc-field-group input {
+  width: 60%;
+  font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.page, .post {
+  margin-bottom: 1.5em;
+}
