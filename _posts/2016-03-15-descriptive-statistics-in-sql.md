@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  Descriptive Statistics in SQL
+redirect_from:
+    - /2016/03/15/descriptive-statistics-in-sql.html
 ---
 
 I recently wrote an article on why you should [learn SQL for data analysis]({% post_url 2016-03-08-sql-for-data-analysis %}). I received lots of feedback from this post. People wanted to see some concrete examples of using SQL for data analysis. I decided to apply some of my own advice and load up one of these [awesome datasets](https://github.com/caesar0301/awesome-public-datasets) to do some basic data exploration queries on it.

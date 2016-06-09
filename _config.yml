@@ -6,7 +6,7 @@
 title:               'Jean-Nicholas Hould'
 tagline:         	   'Data Science & Business Bootstrapping '
 description:         'Essays about data, building products and bootstrapping businesses.'
-# permalink:           pretty
+permalink:           none
 baseurl: ""
 url:                 'http://www.jeannicholashould.com'
 
@@ -24,3 +24,4 @@ version:             1.0.0
 gems: [jekyll-paginate, jekyll-redirect-from]
 paginate: 5
 paginate_path: "page:num"
+

@@ -1,5 +1,5 @@
 #mc_embed_signup {
-  background:#fff; 
+  background: #f5fafb;
   clear:left; 
   font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -16,7 +16,7 @@
 }
 
 #mc_embed_signup form {
-  padding: 10px 0 10px 0;
+  // padding: 10px 0 10px 0;
 }
 
 #mc_embed_signup .mc-field-group input {

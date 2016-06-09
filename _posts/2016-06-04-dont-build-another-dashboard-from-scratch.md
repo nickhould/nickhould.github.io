@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Don't Build Another Dashboard From Scratch
+redirect_from:
+    - /2016/06/04/dont-build-another-dashboard-from-scratch.html
 ---
 
 For the past few years, I've been working with data. At different point in times, I felt the need to build a custom dashboarding solution for our team. I thought the existing solutions where not good enough for us, not flexible enough. For example, solutions like Geckoboard didn't allow our teammates to filter and query the data. I wanted to build a custom dashboard by coding it from scratch to solve that problem. 

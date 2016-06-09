@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting Started with Statistics for Data Science
+redirect_from:
+    - /2016/02/15/getting-started-with-statistics-for-data-science.html
 ---
 
 Learning statistics can be a daunting journey for aspiring data scientists that are not coming from a quantitative field. Whether you are a computer science undergrad, a developer in seek of a career change or a MBA graduate, it seems that the statistical part of data science is often the most intimidating one. As a business school graduate, it was for me. 

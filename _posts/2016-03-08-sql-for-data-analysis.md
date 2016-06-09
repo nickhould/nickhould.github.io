@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  SQL for Data Analysis
+redirect_from:
+    - /2016/03/08/sql-for-data-analysis.html
 ---
 
 I've a had a few discussions over the past months with people wanting to get into the field of data analysis. One of the most frequent question I get is: "What programming language shoud I learn to get my first data analysis job? Should I learn R or Python?". My answer to them is: none of these for now. First learn SQL. 
