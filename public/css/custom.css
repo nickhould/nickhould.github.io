@@ -1,6 +1,6 @@
 #mc_embed_signup {
   background: #f5fafb;
-  clear:left; 
+  clear:left;
   font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
   font-size: 14px;
 }
@@ -27,4 +27,8 @@
 
 .page, .post {
   margin-bottom: 1.5em;
+}
+
+.smaller-font {
+  font-size: 0.9em;
 }

@@ -3,7 +3,7 @@ layout: page
 title: Marathons
 ---
 ## Races
-<table>
+<table class="smaller-font">
     <thead>
         <td>Date</td>
         <td>City</td>
@@ -11,6 +11,13 @@ title: Marathons
         <td>Name</td>
         <td>Time</td>
     </thead>
+    <tr>
+        <td><small>2016-06-25</small></td>
+        <td>St-Donat</td>
+        <td>Canada</td>
+        <td>Ultimate XC 38km</td>
+        <td><a href="https://www.strava.com/activities/622077006">5:02:48</a></td>
+    </tr>    
     <tr>
         <td><small>2015-10-11</small></td>
         <td>Bromont</td>
@@ -41,5 +48,3 @@ title: Marathons
         <td><a href="https://www.strava.com/activities/185852220">2:05:49</a></td>
     </tr>
 </table>
-
-
