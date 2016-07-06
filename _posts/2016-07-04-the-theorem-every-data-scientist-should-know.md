@@ -32,6 +32,6 @@ The CLT is not limited to making inferences from a sample about a population. Th
 1. We have the information of a **valid sample**. We can make accurate assumptions about it's population.
 2. We have the information of the **population**. We can make accurate assumptions about a valid sample from that population.
 3. We have the information of a **population and a valid sample**. We can accurately infer if the sample was draw from that population.
-4. We have the information about **two different valid samples**. We can accurate infer if the two samples where drawn from the same population.
+4. We have the information about **two different valid samples**. We can accurately infer if the two samples where drawn from the same population.
 
 As a data scientist, you should be able to deeply understand this theorem. You should be able to explain it and understand why it's so important. This post skips many important aspects of the theorems such as it's mathematical demonstration, the criteria for it to be valid and the details about the statistical inferences that can be made from it. These elements are material for another post.
