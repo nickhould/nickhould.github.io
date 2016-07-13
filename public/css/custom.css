@@ -32,3 +32,9 @@
 .smaller-font {
   font-size: 0.9em;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
