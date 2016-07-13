@@ -3,7 +3,7 @@ layout: post
 title: The Theorem Every Data Scientist Should Know (Part 2)
 ---
 
-Last week, I wrote a [post](www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html) about the Central Limit Theorem. In that post, I explained through examples what the theorem is and why it's so important when working with data. If you haven't read it yet, go do it now. To keep the post short and focused, I didn't go into many details. The goal of that post was to communicate the general concept of the theorem. In the days following it's publication, I received many messages. People wanted me to go into more details.
+Last week, I wrote a [post](/the-theorem-every-data-scientist-should-know.html) about the Central Limit Theorem. In that post, I explained through examples what the theorem is and why it's so important when working with data. If you haven't read it yet, go do it now. To keep the post short and focused, I didn't go into many details. The goal of that post was to communicate the general concept of the theorem. In the days following it's publication, I received many messages. People wanted me to go into more details.
 
 Today, I'll dive into more specifics. I'll be focusing on answering the following question: ***How do we calculate confidence intervals and margins of error with the CLT?***
 
