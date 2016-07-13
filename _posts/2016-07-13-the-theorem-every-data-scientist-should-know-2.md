@@ -9,7 +9,7 @@ Today, I'll dive into more specifics. I'll be focusing on answering the followin
 
 By the end of this post, you should be able to explain how we calculate confidence intervals to your colleagues.
 
-## More Details The CLT
+## More Details On The CLT
 The theorem states that if we collect a large enough sample from a population, the sample mean should be equal to, more or less, the population mean. If we collect a large number of different samples mean, the distribution of those samples mean should take the shape of a normal distribution no matter what the population distribution is. We call this distribution of means the sampling distribution.
 
 Knowing that the sampling distribution will take the shape of a normal distribution is what makes the theorem so powerful. With a few information about a sample, we are able to calculate the probability that the sample mean will differ from the population mean and by how much it will differ. Sounds familiar? Well the Central Limit Theorem is foundational to the concept of confidence intervals and margins of error in frequentist statistics.
