@@ -1,0 +1,78 @@
+1. Summary Analysis
+    - What hurts
+        + 
+    - What people want?
+        + Prevent stupid mistake
+        + Be better at their job
+    - What people buy?
+    - Essays Ideas:
+
+2. Data Collection
+
+Source: https://www.reddit.com/r/datascience/comments/4k43bo/i_start_a_data_science_position_a_week_from/
+
+Start data science position a week from friday
+data scientists, what is one thing you wish you could tell yourself on your first day on the job?
+
+not looking for advice per se
+what do you know now that you wish you knew then?
+
+surround yourself with people smart than your
+learn from them
+don't be an island of one at the company
+
+sit down with as many other people in other teams
+learn what theur pain points are
+what they would like to see from data
+discover so many new insights and projects to work one
+
+the most loved tools by the business are the ones we built with simple SQL queries
+
+Rmarkdown/knitr documents
+
+i started working as a data scientist since monday and i'm already an island
+
+today I'll try to talk to others
+force yourself out there and make bridges to other teams
+
+building a tool for your users to get the data themseves is not going to be enough - you will need to invest plenty of time to train them to use the output
+
+Make a big effort to learn the business context around the data
+
+get to know the data experts and IT people who can help you solve problem
+
+don't feign knowledge - if you don't know something, admit it.
+
+build relationships with the business team, marketers, or others who proximate to your office or work projects
+
+there are chance that your boss will be dishonest and will expect you to "cook the numbers"
+
+keep up on your skill development
+
+pick things to learn that have a direct impact on the business which you can learn form talking to others
+
+https://www.reddit.com/r/datascience/comments/4irajq/mistakes_made_by_beginningaspiring_data_scientists/
+
+draws a lot of unqualified people hired by unqualified people
+
+be carefull what you get good at
+
+work closely with developers and spread your knowledge
+
+if you are in BI
+
+- remember that you are in a service role
+- understand and repeat back the prolem/question before getting into the nitty gritty of the problem
+- if the coworkers you are supposed to serve see you as someone who understands understands them they will feel empowered by you - that is the number one thing 
+
+- don't be afraid to seem ignorant on the business domain
+- there is an insane amount of shit to know within "data science" right now
+- start thinking about what actually seems to serve you day to day and where you feel you are lacking a develop a little bit at a time.
+
+- can confirm this guy's advice is the most import thning.
+- you need to deliver useful insights
+- Ask a lot of question 
+    +  I didn't even know what that was or that I had those skills. But essentially, it's about getting the people you serve to take more ownership of the process and to realize the full extent of their responsibility for its outcome and to motivate them to devote time and energy to helping you help them.
+    +  the underlying issue is that you're not their boss and their boss
+    +  don't fuck up by getting in the nitty gritty to early
+    +  half of the job is get your client to a point where they are asking a question that you can efficiently answer and that your answer will be usefull to them
