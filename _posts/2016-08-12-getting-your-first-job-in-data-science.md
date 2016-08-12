@@ -33,7 +33,7 @@ The good news is that you don't have to make your work perfect before making it 
 
 ## What should you share? 
 
-Share things that can provide value to people. Don't take for granted that everybody knows what you know. It might be trivial for you to write about statistical concepts like the Beta Distribution, but it's not the case for everyone. What do you know that perhaps
+Share things that can provide value to people. Don't take for granted that everybody knows what you know. It might be trivial for you to write about statistical concepts like the Beta Distribution, but it's not the case for everyone.
 
 Here are a few ideas on what you can do:
 
