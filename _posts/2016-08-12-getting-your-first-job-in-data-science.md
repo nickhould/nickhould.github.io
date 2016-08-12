@@ -20,14 +20,14 @@ At the Starter League, I met [Sam](http://solomon.io/) and [Enrique](http://enri
 At the end of the 3 months bootcamp, we had a fully functional product and at least one user, the Chicago History Museum. We open sourced the code. Little did I know at the time, but the project would be featured in Hacker News and attract the likes of many interesting people, including the Tumblr engineering team. More importantly, this project helped me land a job at PasswordBox in data science.
 
 [comment]: <> (How did it help me land a job?)
-MountainMetrics wasn't in any ways a technological feat. It was a simple Rails web application that pulled data from multiple API's and reported back the data in a sensible manner to the end-user. However, it demonstrated that I had a few very important skills in data science: I can ship, I am passionate about data and I have some tech skills to make things happen.
+MountainMetrics wasn't in any ways a technological feat. It was a simple Rails web application that pulled data from multiple API's and reported back the data in a sensible way to the end-user. However, it demonstrated that I had a few very important skills in data science: I can ship, I am passionate about data and I have some tech skills to make things happen.
 
 ## Done is better than perfect
 [comment]: <> (What is preventing us from making our work public? What can we do to over come this?)
 We always want to show our best side. We fear of getting criticized. Psychologically, we humans want to be loved and accepted. This is one of the reason why we want our work to be perfect before showing it to the world. This is also why so many people struggle shipping anything.
 
 [comment]: <> (Don't get caught up in the details)
-In his post, David Robinson talks about that how we used to work on scientific papers during his Ph.D. Those papers need to be "perfect" before they are published. They need to go through a slow reviewal process and often times are never made public. 
+In his post, David Robinson talks about that how we used to work on scientific papers during his Ph.D. Those papers need to be "perfect" before they are published. They need to go through a slow revision process and often times are never made public. 
 
 The good news is that you don't have to make your work perfect before making it public. What you ship is not set in stone. You can come back and improve it. Don't get lost in the details, just get some interesting work out of the door. The worst that can happen is that nobody notices. 
 
