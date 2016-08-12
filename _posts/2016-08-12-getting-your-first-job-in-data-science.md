@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting your first job in data science
+redirect_from:
+  - /how-do-you-land-a-job-in-data-science-without-years-of-experience.html
 ---
 
 A few weeks ago, I came across a great post from David Robinson about his [first year as a data scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/). The post went into great details about how David landed his job there and the things he's been working on since then. 
