@@ -4,7 +4,7 @@ title: Talks
 ---
 
 
-## What I Wish I Knew About Startup
+##  What I Wish I Knew About Data For Startups
 
 For the last 4 years, I’ve been through quite a startup journey at PasswordBox. We went through multiple phases: launching our consumer product, raising a Series A, improving our product and optimizing, growing to millions of users and eventually getting acquired.
 
