@@ -1,18 +1,39 @@
+/* Red */
+.theme-base-08 .sidebar,
+.theme-base-08 .sidebar-toggle:active,
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #07b69c;
+}
+.theme-base-08 .container a,
+.theme-base-08 .sidebar-toggle,
+.theme-base-08 .related-posts li a:hover {
+  color: #07b69c;
+}
+
+table.dataframe {
+  font-size: 0.6em;
+  text-align: left;
+}
+
+code, pre {
+  font-size: 0.6em;
+}
+
 #mc_embed_signup {
-  background: #f5fafb;
+  background: #edf8f3;
   clear:left;
   font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
   font-size: 14px;
 }
 
 #mc_embed_signup .button {
-  background-color: #3b9739;
+  background-color: #45b67f;
   height: 40px;
   font-size: 16px;
 }
 
 #mc_embed_signup .button:hover {
-  background-color: #2f792e;
+  background-color: #057968;
 }
 
 #mc_embed_signup form {
