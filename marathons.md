@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marathons
+title: Running
 ---
 ## Races
 <table class="smaller-font">
