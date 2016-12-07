@@ -322,7 +322,7 @@ Problems:
 - If a song is in the Top 100 for less than 75 weeks, the remaining columns are filled with missing values. 
 
 {% highlight python %}
-df = pd.read_csv("./data/billboard.csv")
+df = pd.read_csv("./data/billboard.csv", encoding="mac_latin2")
 df.head(10)
 {% endhighlight %}
 
