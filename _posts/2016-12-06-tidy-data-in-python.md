@@ -479,36 +479,27 @@ id_vars = ["year",
            "date.entered",
            "date.peaked"]
 
-df = pd.melt(frame=df,
-             id_vars=id_vars,
-             var_name="week",
-             value_name="rank")
+df = pd.melt(frame=df,id_vars=id_vars, var_name="week", value_name="rank")
 
-# Formatting the `week` column to keep only the integer part
+# Formatting 
 df["week"] = df['week'].str.extract('(\d+)', expand=False).astype(int)
-
-# Cleaning out empty rows
-df = df.dropna()
-df = df.sort_values(ascending=True,
-                    by=["year",
-                        "artist.inverted",
-                        "track",
-                        "week",
-                        "rank"])
-df["week"] = df["week"].astype(int)
 df["rank"] = df["rank"].astype(int)
 
-# Adding a new column named "date" 
-def return_week_date(row):
-    start_date = datetime.datetime.strptime(row['date.entered'], 
-                                            '%Y-%m-%d')
-    week_delta = datetime.timedelta(weeks=(row['week']-1))
-    return start_date + week_delta
-    
-df["date"] = df.apply(lambda row: return_week_date(row), axis=1)
+# Cleaning out unnecessary rows
+df = df.dropna()
 
-del df["date.entered"]
-del df["date.peaked"]
+# Create "date" columns
+df['date'] = pd.to_datetime(df['date.entered']) + pd.to_timedelta(df['week'], unit='w') - pd.DateOffset(weeks=1)
+
+df = df[["year", 
+         "artist.inverted",
+         "track",
+         "time",
+         "genre",
+         "week",
+         "rank",
+         "date"]]
+df = df.sort_values(ascending=True, by=["year","artist.inverted","track","week","rank"])
 
 # Assigning the tidy dataset to a variable for future usage
 billboard = df
