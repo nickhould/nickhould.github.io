@@ -110,6 +110,7 @@ Through the following examples extracted from Wickham's paper, we'll wrangle mes
 - A single observational unit is stored in multiple tables.
 
 *Note: All of the code presented in this post is available on [Github](https://github.com/nickhould/tidy-data-python).*
+
 ###  Column headers are values, not variable names
 
 #### Pew Research Center Dataset
