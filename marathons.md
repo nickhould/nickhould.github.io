@@ -12,6 +12,28 @@ title: Running
         <td>Time</td>
     </thead>
     <tr>
+        <td><small>2016-10-23</small></td>
+        <td>Montreal</td>
+        <td>Canada</td>
+        <td>Tour du Mont-Royal Marathon</td>
+        <td><a href="https://www.strava.com/activities/753911885">4:17:16</a></td>
+    </tr>
+    <tr>
+        <td><small>2016-09-25</small></td>
+        <td>Montreal</td>
+        <td>Canada</td>
+        <td>Montreal Rock N' Roll Marathon</td>
+        <td><a href="https://www.strava.com/activities/725082666">3:36:04</a>
+        </td>
+    </tr>    
+    <tr>
+        <td><small>2016-09-10</small></td>
+        <td>La Malbaie</td>
+        <td>Canada</td>
+        <td>Ultra-Trail Harricana 65K</td>
+        <td><a href="https://www.strava.com/activities/709418423">8:14:19</a></td>
+    </tr>    
+    <tr>
         <td><small>2016-06-25</small></td>
         <td>St-Donat</td>
         <td>Canada</td>
