@@ -9,6 +9,10 @@
   color: #07b69c;
 }
 
+.quotable {
+  background-color: #faf7d3;
+}
+
 table.dataframe {
   font-size: 0.6em;
   text-align: left;
@@ -55,6 +59,11 @@ code, pre {
 
 .center-image
 {
-    margin: 0 auto;
-    display: block;
+  margin: 0 auto;
+  display: block;
+}
+
+.center-text
+{
+  text-align:center
 }

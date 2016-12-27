@@ -1,0 +1,97 @@
+---
+layout: post
+title:  2016 in Review
+---
+
+Every year, I have a ritual. I'll set some time aside to review my yearly goals. I'll reflect on the past year. What went well? What was challenging? Is there something I want more or less in my life? For years, I've been doing this at the end of December.
+
+Up until last year, I had kept those reflections for myself. My notes would remain in a folder on my computer. They would remain unshared. Only a few of my close friends would be aware of those goals. In 2016, I decided to do things differently. I made my goals public [on a post](http://www.jeannicholashould.com/goals-for-2016.html) and shared them with you.
+
+A year later, it's time to review those goals.
+
+## Goals Status
+
+### ✔ Run 365 miles during the year.
+
+At the time of writing this post, I ran [857 miles in 2016](https://www.strava.com/athlete/calendar), representing 145 hours of running, on a total of 117 activities. 
+
+In comparison, last year I ran 554 miles during 89 hours, on a total of 73 activities.
+
+### ✔ Run a marathon in 3h40 or below.
+
+I ran the [Montreal marathon in 3h36](https://www.strava.com/activities/725082666/overview).
+
+### ✔ Run an ultramarathon.
+
+I ran a ~65km ultramarathon called [Harricana in 8h14](https://www.strava.com/activities/709418423).
+
+### ✔ Make at least 1,000$ revenues with a business project.
+I [sold Bootstrappers.io](https://bootstrappers.io/2016/09/08/bootstrappers-io-new-ownership/) for $1,750 USD. I created the project back in 2014 and I didn't give the love it deserved. Selling it made sense.
+
+### ✖ Run all year long, at least twice per week.
+<small>*Partially Completed: 69%*</small>
+
+As you can see above, many of my goals are related to running. I love running. It's accessible and it doesn't require any logistics. I can just leave my place and go run. 
+
+For 2016, I really wanted to build a good habit of running every week, no matter the season. This is why I set myself a goal to go outside run at least twice a week, all year long. 
+
+In the past, I would train hard during the summer and would completely stop running during fall and winter. When spring would come, I felt like I was starting my training from the ground up all again. 
+
+My goal was to run a bit all year long. I knew I would train more during the summer but I wanted to keep some momentum during the colder seasons. 
+
+I live in Montreal. Running all year long means going outside in the winter at temperature that go down to -30°. 
+
+This goal was incredibly effective for me. On Saturdays, if I hadn't run during the week, I knew I had to kick myself in the butt and go outside run if I wanted to reach my goal.
+
+During the year, I ran at least twice a week 69% of the weeks (35 weeks out of 51 weeks). I ran at least once a week on 88% of the weeks. I didn't reach my goal but I am still satisfied with the results. 
+
+### ✖ Write 12 essays, at least once per month. 
+<small>*Partially Completed: 58%*</small>
+
+I wrote 12 essays last year. However, I did not write one essay per month. I wrote them in 7 distinct months.
+
+### ✖ Run one half-marathon in 1h40 or below.
+<small>*Failed*</small>
+
+The closest I came to reaching this goal was during Montreal Marathon in September 2016 when I ran a [21.1 KM in 1h41](https://www.strava.com/activities/725082666/overview). 
+
+
+### ✖ Read 12 books, at least once per month. 
+<small>*Partially Completed: 67%*</small>
+
+I read 8 books in 8 months. 
+
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/gp/product/081298160X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298160X&linkCode=as2&tag=nickhould-20&linkId=cdd6929c67202f02c2d45fd1783fc309)
+- [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/gp/product/039334777X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039334777X&linkCode=as2&tag=nickhould-20&linkId=d3a7c6ff39b54339d417d3b847a8dfa3)
+- [Not Fade Away: A Short Life Well Lived](https://www.amazon.com/gp/product/039334777X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039334777X&linkCode=as2&tag=nickhould-20&linkId=d3a7c6ff39b54339d417d3b847a8dfa3)
+- [The Alchemist](https://www.amazon.com/gp/product/0062315005/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062315005&linkCode=as2&tag=nickhould-20&linkId=420df46eb31ff73cb10767430a15ea45)
+- [Data Scientists at Work](https://www.amazon.com/gp/product/1430265981/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430265981&linkCode=as2&tag=nickhould-20&linkId=d057cd66198fb83a46fe045710f42be8)
+- [Moneyball](https://www.amazon.com/gp/product/0393324818/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393324818&linkCode=as2&tag=nickhould-20&linkId=30a8e6849ebd1e0cce7eaab8e83b7083)
+- [Authority](https://www.amazon.com/gp/product/1612060919/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1612060919&linkCode=as2&tag=nickhould-20&linkId=97036fe2c26f7d142f2d17cbdd306b12)
+- [Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)
+
+### ✖ Take 2 classes about Machine Learning.
+
+<small>*Partially Completed: 50%*</small>
+
+I took a Coursera class called [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/HUVD4NY4BLL6).
+
+I didn't appreciate the experience that much. I prefer going at my own pace with a book or with screencasts. 
+
+### ✖ Dropped Goals
+There is a set of goals that I decided to place in the same bucket: *dropped goals*. To be honest, I probably failed many of those goals. The thing is that I don't know for sure and I don't really care. 
+
+There are two reasons a goal ended up in this list. The first is that the goal became irrelevant early on during the year. The second is that is wasn't a good goal. The goal was not specific enough or not *easily* measurable. 
+
+- Develop skills in Customer Development
+- Experiment with at least 3 business ideas. 
+- Measure time spent in meetings and reduce it.
+- Reduce the amount of time I spend on this stuff by 50%.
+- Measure how much time I am wasting watching/reading useless stuff.
+- Save 24% of annual salary
+- Target Weight: 166-170 pounds. 
+
+## Looking forward to 2017
+
+In light of this experience of public accountability, I decided to repeat the exercise for 2017. I will follow up in the next few weeks with my goals.
+
