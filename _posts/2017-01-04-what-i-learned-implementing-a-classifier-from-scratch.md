@@ -3,7 +3,7 @@ layout: post
 title: What I Learned Implementing a Classifier from Scratch in Python
 ---
 
-<small style="color:##7b7b7b;">*This post is part of the [Learning Machine Learning]() series. It's based on Chapter 1 and 2 of [Python Machine Learning](https://www.amazon.com/gp/product/1783555130/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1783555130&linkCode=as2&tag=nickhould-20&linkId=79334fab95b99f2021c47f06697c40c3)*.</small>
+<small style="color:##7b7b7b;">*This post is part of the [Learning Machine Learning](http://www.jeannicholashould.com/learning-machine-learning.html) series. It's based on Chapter 1 and 2 of [Python Machine Learning](https://www.amazon.com/gp/product/1783555130/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1783555130&linkCode=as2&tag=nickhould-20&linkId=79334fab95b99f2021c47f06697c40c3)*.</small>
 
 Machine learning can be intimidating for a newcomer. The concept of a machine learning things alone is quite abstract. How does that work in practice? 
 
