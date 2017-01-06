@@ -220,7 +220,7 @@ For me, the main learning here is how fundamental linear algebra is to this mach
 ### Type Everything
 This learning is actually a concept I re-learned while going through the code for this post. It's not specific to machine learning and it has nothing to do with the Perceptron.
 
-Back in 2012 when I was learning to code Ruby on Rails, a web application development framework, I realized that typing down all of the code examples from tutorials really helped me memorize and understand the concepts. I spent weeks writing code while following tutorials. No copy and paste. I typed all the code. This may sound stupid but it was extremely helpful to grasp the concepts. During the process, I inevitably made typos and spend some time figuring out what was broken. These moments where crucial because that's when you usually stop and think.
+Back in 2012 when I was learning to code Ruby on Rails, a web application development framework, I realized that typing down all of the code examples from tutorials really helped me memorize and understand the concepts. I spent weeks writing code while following tutorials. No copy and paste. I typed all the code. This may sound stupid but it was extremely helpful to grasp the concepts. During the process, I inevitably made typos and spend some time figuring out what was broken. These moments were crucial because that's when you usually stop and think.
 
 If you are going through the Perceptron code, don't copy and paste the code from the [repository](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch02/ch02.ipynb). Type it down in your own Jupyter Notebook. Type everything. Don't read passively. Get involved, type it down and you'll assimilate the concepts faster.
 
