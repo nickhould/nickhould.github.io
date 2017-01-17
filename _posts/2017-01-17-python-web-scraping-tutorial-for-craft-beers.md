@@ -612,4 +612,4 @@ beers.head(5)
 
 ## Ready for exploration
 
-We now have two clean datasets: `beers` and `breweries`. Each column has been cleaned up to respect the tidy principles.  We are now ready to start exploring those datasets.
+We now have two clean datasets: `beers` and `breweries`. Each column has been cleaned up to respect the tidy principles. The code and the data for this post is available [here on Github](https://github.com/nickhould/craft-beers-dataset).  We are now ready to start exploring those datasets. 
