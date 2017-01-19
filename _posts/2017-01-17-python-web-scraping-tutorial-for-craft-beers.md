@@ -107,7 +107,7 @@ For each row, I run a test to determine whether or not it's a row containing a b
 def is_beer_entry(table_row):
     row_cells = table_row.findAll("td")
     beer_id = get_beer_id(row_cells[0].text)
-    return ( len(cells) == 8 and beer_id )
+    return ( len(row_cells) == 8 and beer_id )
 
 # Return the beer entry numerical identifier from the "Entry" column.
 def get_beer_id(cell_value):
@@ -143,7 +143,7 @@ def get_all_beers(html_soup):
     all_rows_in_html_page = html_soup.findAll("tr")
     for table_row in all_rows_in_html_page:
         if is_beer_entry(table_row):
-            row_cells = row.findAll("td")
+            row_cells = table_row.findAll("td")
             beer_entry = {
                 "id": get_beer_id(row_cells[0].text),
                 "name": row_cells[1].text,
