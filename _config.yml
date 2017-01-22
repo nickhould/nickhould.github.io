@@ -4,8 +4,8 @@
 
 # Setup
 title:               'Jean-Nicholas Hould'
-tagline:         	   'Data Science & Business Bootstrapping '
-description:         'Essays about data, building products and bootstrapping businesses.'
+tagline:         	   'On Data Science'
+description:         'My journey learning data science.'
 permalink:           none
 baseurl: ""
 url:                 'http://www.jeannicholashould.com'
