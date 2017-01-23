@@ -3,14 +3,6 @@ layout: default
 title: Home
 ---
 
-# <strong>How Do I Get Started in Data Science?</strong>
-
-
-1. The Theorem Every Data Scientist Should Know
-2. Getting Your First Job in Data Science
-3. What I Wish I knew About Data For Startup
-4. The Theorem Every Data Scientist Should Know
-
 # <strong>Hi, I'm JN</strong>
 
 <img src="./public/jean-nicholas-hould.png" style="float:right;width:10em;margin-top:3em;margin-left:2em;">
