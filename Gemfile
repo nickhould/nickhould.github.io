@@ -1,6 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
+gem 'json', github: 'flori/json', branch: 'v1.8'
 
 gem "jekyll"
 gem "jekyll-paginate"
