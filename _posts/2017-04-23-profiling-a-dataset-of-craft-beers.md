@@ -297,8 +297,6 @@ Correlations are a great way to discover relationships between numerical variabl
 beers[["abv", "ibu", "ounces"]].corr()
 {% endhighlight %}
 
-As you can see above, the correlation between `IBU` and itself is 1. Obviously, numerical variables are perfectly correlated with themselves. More interestingly, you can see that the correlation of the `ABV` and `IBU` is equal to  `0.670621`. While this is not a total positive correlation, it is still highly correlated. This is an interesting aspect that we can explore further down the road.
-
 <table border="1" class="dataframe">
     <thead>
         <tr style="text-align: right;">
