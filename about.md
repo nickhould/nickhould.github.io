@@ -13,7 +13,7 @@ I'd like to learn more about how I can help you. [Email me here.](mailto:nick.ho
 
 
 - [Twitter](https://www.twitter.com/nicholashould)
-- [Github](github.com/nickhould)
+- [Github](https://github.com/nickhould)
 - [LinkedIn](https://www.linkedin.com/in/jean-nicholas-hould-2b820a1b)
 
 
