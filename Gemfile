@@ -9,3 +9,5 @@ gem 'jekyll-redirect-from'
 gem 'github-pages'
  
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem 'rouge'

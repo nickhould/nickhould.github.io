@@ -25,3 +25,4 @@ gems: [jekyll-paginate, jekyll-redirect-from]
 paginate: 5
 paginate_path: "page:num"
 
+highlighter: rouge
