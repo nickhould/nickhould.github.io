@@ -108,12 +108,12 @@ GEM
       rb-inotify (>= 0.9)
     maruku (0.7.0)
     mercenary (0.3.5)
-    mini_portile2 (2.0.0)
+    mini_portile2 (2.4.0)
     minitest (5.8.3)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.10.9)
+      mini_portile2 (~> 2.4.0)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
     parslet (1.5.0)
@@ -128,6 +128,7 @@ GEM
       ffi (>= 0.5.0)
     rdiscount (2.1.8)
     redcarpet (3.3.3)
+    rouge (3.18.0)
     safe_yaml (1.0.4)
     sass (3.4.21)
     sawyer (0.6.0)
@@ -153,6 +154,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   json!
+  rouge
 
 BUNDLED WITH
    1.14.6
