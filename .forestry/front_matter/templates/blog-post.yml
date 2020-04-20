@@ -8,6 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-- type: list
-  name: redirect_from
-  label: redirect_from
