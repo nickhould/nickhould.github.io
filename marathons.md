@@ -12,6 +12,13 @@ title: Running
         <td>Time</td>
     </thead>
     <tr>
+        <td><small>2018-06-24</small></td>
+        <td>Mont-Tremblant</td>
+        <td>Canada</td>
+        <td>IRONMAN 70.3 Mont-Tremblant</td>
+        <td><a href="https://www.strava.com/activities/1671608372">5:44:07</a></td>
+    </tr>
+    <tr>
         <td><small>2016-10-23</small></td>
         <td>Montreal</td>
         <td>Canada</td>
