@@ -1,0 +1,263 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg:    #f5f4ef;
+  --fg:    #111111;
+  --muted: #888880;
+  --rule:  #dddbd3;
+  --green: #1B4332;   /* Porsche British Green */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:    #0e0d0a;
+    --fg:    #e8e6df;
+    --muted: #666660;
+    --rule:  #2a2925;
+    --green: #52a874;
+  }
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+  font-family: 'Lora', Georgia, serif;
+  line-height: 1.7;
+  padding: 0 1.5rem;
+}
+
+/* ── Layout ── */
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 5.5rem 0 4rem;
+}
+
+footer {
+  max-width: 640px;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+  color: var(--muted);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+}
+
+/* ── Header ── */
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 3.4rem;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--green);
+  margin-bottom: 0.3em;
+}
+
+.tagline {
+  color: var(--muted);
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+  font-size: 0.95rem;
+  padding-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* ── Body copy ── */
+
+p {
+  font-size: 1.05rem;
+  margin-bottom: 1.75rem;
+}
+
+/* ── Nav ── */
+
+nav {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  gap: 1.75rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: var(--muted);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.15s;
+}
+
+nav a svg {
+  width: 20px;
+  height: 20px;
+}
+
+nav a:hover {
+  color: var(--green);
+}
+
+/* ── Post ── */
+
+h2.post-title {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 900;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.4em;
+}
+
+.post-meta {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+article h2,
+article h3,
+article h4 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+article p {
+  margin-bottom: 1.4rem;
+}
+
+article a {
+  color: var(--green);
+}
+
+article ul,
+article ol {
+  padding-left: 1.4em;
+  margin-bottom: 1.4rem;
+}
+
+article li {
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+}
+
+article pre,
+article code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.85rem;
+  background: var(--rule);
+  border-radius: 2px;
+}
+
+article code {
+  padding: 0.1em 0.3em;
+}
+
+article pre {
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  margin-bottom: 1.4rem;
+}
+
+article pre code {
+  background: none;
+  padding: 0;
+}
+
+article blockquote {
+  border-left: 2px solid var(--green);
+  padding-left: 1.25rem;
+  color: var(--muted);
+  margin: 0 0 1.4rem;
+  font-style: italic;
+}
+
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* ── Archive ── */
+
+.home-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-link:hover {
+  color: var(--green);
+}
+
+.post-list {
+  list-style: none;
+  margin-bottom: 3rem;
+}
+
+.post-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.post-date {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
+  width: 2.5rem;
+}
+
+.post-list a {
+  color: var(--fg);
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.post-list a:hover {
+  color: var(--green);
+}
+
+/* ── Archive header ── */
+
+.archive-header h1 {
+  font-size: 2rem;
+}
+
+/* ── Mobile ── */
+
+@media (max-width: 480px) {
+  html {
+    font-size: 17px;
+  }
+
+  h1 {
+    font-size: 2.6rem;
+  }
+
+  main {
+    padding-top: 3.5rem;
+  }
+}
